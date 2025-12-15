@@ -11,9 +11,9 @@ J’avance principalement par la **pratique**, en documentant chaque projet afin
 
 ## 🛠️ Compétences techniques
 
-* **Langages** : Python
+* **Langages** : Python, SQL
 * **Bibliothèques** : pandas, numpy, matplotlib (bases)
-* **Outils** : Git, GitHub,
+* **Outils** : GitHub, Kaggle
 * **Concepts** :
 * 
   * Nettoyage et préparation des données
@@ -52,7 +52,6 @@ Je suis actuellement à la recherche :
 
 * d’**immersions professionnelles**
 * de **projets data concrets**
-* puis d’une **formation en alternance** ou d’un **premier poste junior**
 
 ---
 

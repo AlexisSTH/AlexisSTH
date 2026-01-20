@@ -9,7 +9,7 @@ J’avance principalement par la **pratique**, en documentant chaque projet afin
 
 ---
 
-## 🛠️ Compétences techniques
+##  Compétences techniques
 
 * **Langages** : Python, SQL
 * **Bibliothèques** : pandas, numpy, matplotlib (bases)
@@ -55,7 +55,7 @@ Je suis actuellement à la recherche :
 
 ---
 
-## 📫 Me contacter
+##  Me contacter
 
 * LinkedIn : https://www.linkedin.com/in/alexis-sayasith-729a9819a/
 

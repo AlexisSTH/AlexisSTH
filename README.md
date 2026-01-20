@@ -1,6 +1,6 @@
-# 👋 Bonjour,
+#  Bonjour,
 
-## 📊 À propos de moi
+##  À propos de moi
 
 Je suis dans le **domaine de la Data Analysis** et je me forme activement en réalisant des **projets personnels d’analyse de données**.
 
@@ -23,7 +23,7 @@ J’avance principalement par la **pratique**, en documentant chaque projet afin
 
 ---
 
-## 📂 Projets de data analysis
+##  Projets de data analysis
 
 Ce GitHub contient principalement des **projets personnels de data analysis**, incluant :
 
@@ -40,7 +40,7 @@ Chaque projet comprend :
 
 ---
 
-## 🎯 Objectif professionnel
+##  Objectif professionnel
 
 Mon objectif est de devenir **Data Analyst**, dans un environnement où je peux :
 
